@@ -1,4 +1,7 @@
-# test coverage for  [turf (v3.0.14)](https://github.com/turfjs/turf#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-turf.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-turf) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-turf.svg)](https://travis-ci.org/npmtest/node-npmtest-turf)
+# npmtest-turf
+
+#### basic test coverage for  [turf (v3.0.14)](https://github.com/turfjs/turf#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-turf.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-turf) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-turf.svg)](https://travis-ci.org/npmtest/node-npmtest-turf)
+
 #### a JavaScript library for performing geospatial operations with GeoJSON
 
 [![NPM](https://nodei.co/npm/turf.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/turf)
